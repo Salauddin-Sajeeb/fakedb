@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Sakib Khan",
+        "Screen_name": "Thor",
+        "heigh": "6.1\"",
+        "payment": 1000000,
+        "img": "https://i.pinimg.com/originals/da/b6/ed/dab6eda9e8b7c97f2d5552567e4fa0f3.jpg",
+        "country": "Bangladesh",
+        "key": 1
+    },
+    {
+        "name": "Riaz",
+        "Screen_name": "Rocket",
+        "heigh": "5.7\"",
+        "payment": 900000,
+        "img": "https://www.shiningbd.com/media/imgAll/2020September/en/ShiningBD-2104030523.jpg",
+        "Country": "Bangladesh",
+        "key": 2
+    },
+    {
+        "name": "Dipjol",
+        "Screen_name": "Thanos",
+        "heigh": "5.6\"",
+        "payment": 800000,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/images-12-1912260302-1912260645.jpg",
+        "Country": "Bangladesh",
+        "key": 3
+    },
+    {
+        "name": "Maruf",
+        "Screen_name": "Captain Bangladesh",
+        "heigh": "5.6\"",
+        "payment": 800000,
+        "img": "https://bn.observerbd.com/2020/03/29/observerbd.com_1585471249.jpg",
+        "Country": "Bangladesh",
+        "key": 4
+    },
+    {
+        "name": "Rubel",
+        "Screen_name": "Spider Man",
+        "heigh": "5.5\"",
+        "payment": 900000,
+        "img": "https://www.daily-sun.com/assets/news_images/2021/07/12/DS-2--12-07-2021.jpg",
+        "Country": "Bangladesh",
+        "key": 5
+    },
+    {
+        "name": "Manna",
+        "Screen_name": "Machine Man",
+        "heigh": "5.9\"",
+        "payment": 900000,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2019February/Manna-1902170939.jpg",
+        "Country": "Bangladesh",
+        "key": 6
+    },
+    {
+        "name": "Ananta Jolil",
+        "Screen_name": "Hulk",
+        "heigh": "5.9\"",
+        "payment": 900000,
+        "img": "https://thedailynewnation.com/library/1602516534_4.jpg",
+        "Country": "Bangladesh",
+        "key": 7
+    },
+    {
+        "name": "Bobby",
+        "Screen_name": "Bizli",
+        "heigh": "5.3\"",
+        "payment": 500000,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2019August/dfvfd-1908070739.jpg",
+        "Country": "Bangladesh",
+        "key": 8
+    },
+    {
+        "name": "Bappa raj",
+        "Screen_name": "Iron Man",
+        "heigh": "5.5\"",
+        "payment": 600000,
+        "img": "https://banglarshomoy.com/wp-content/uploads/2017/05/Bapparaj-300x194.jpg",
+        "Country": "Bangladesh",
+        "key": 9
+    },
+    {
+        "name": "Misa",
+        "Screen_name": "Falcon",
+        "heigh": "5.8\"",
+        "payment": 400000,
+        "img": "https://dmpnews.org/wp-content/uploads/2020/08/44808_152.jpg",
+        "Country": "Bangladesh",
+        "key": 10
+    }
+]
